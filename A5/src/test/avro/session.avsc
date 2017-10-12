@@ -1,0 +1,40 @@
+{"namespace": "com.refactorlabs.cs378.SessionsMR",
+ "type": "record",
+ "name": "Session",
+ "fields": [
+      {"name": "user_id", "type": "string"},
+      {"name": "events",
+       "type": {"type": "array",
+                "items": {"type": "record",
+                          "name": "Event",
+                          "fields": [
+                              {"name": "event_type",
+                               "type": {"type": "enum",
+                                        "name": "EventType",
+                                        "symbols": [ "CHANGE", "CLICK", "DISPLAY",
+                                                     "EDIT", "SHOW", "SUBMIT", "VISIT" ]
+                                       }
+                               },
+                              {"name": "event_subtype",
+                               "type": {"type": "enum", "name": "EventSubtype",
+                                        "symbols": [ "ALTERNATIVE", "BADGES",
+                                                     "BADGE_DETAIL",
+                                                     "CONTACT_BANNER",
+                                                     "CONTACT_BUTTON",
+                                                     "CONTACT_FORM",
+                                                     "DEALER_PHONE",
+                                                     "FEATURES",
+                                                     "GET_DIRECTIONS",
+                                                     "MARKET_REPORT",
+                                                     "PHOTO_MODAL",
+                                                     "VEHICLE_HISTORY" ]
+                                       }
+                              },
+                              {"name": "event_time", "type": "string" }
+                            ]
+                          }
+                }
+       }
+   ]
+ }
+

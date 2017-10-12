@@ -1,0 +1,1468 @@
+body_style:Chassis	73
+body_style:Convertible	456
+body_style:Coupe	527
+body_style:Hatchback	340
+body_style:Minivan	144
+body_style:Pickup	1831
+body_style:SUV	3434
+body_style:Sedan	4390
+body_style:Van	56
+body_style:Wagon	197
+cab_style:Crew Cab	967
+cab_style:Extended Cab	684
+cab_style:Regular Cab	192
+cab_style:null	9605
+city:Aberdeen	12
+city:Aiken	31
+city:Alabaster	8
+city:Alpharetta	14
+city:Altamonte Springs	34
+city:Anaheim	2
+city:Anchorage	14
+city:Andalusia	15
+city:Apex	12
+city:Apopka	22
+city:Archer	9
+city:Asheville	80
+city:Athens	40
+city:Atlanta	333
+city:Auburn	35
+city:Auburndale	5
+city:Augusta	198
+city:Austin	35
+city:Ballston Spa	7
+city:Ballwin	10
+city:Batavia	62
+city:Bedford	15
+city:Belgrade	100
+city:Belleview	7
+city:Belleville	9
+city:Bellingham	17
+city:Benson	10
+city:Bethania	5
+city:Bethlehem	6
+city:Birmingham	10
+city:Bolivar	7
+city:Boynton Beach	12
+city:Bozeman	17
+city:Bradenton	93
+city:Brandon	52
+city:Brevard	5
+city:Brooklyn	1
+city:Bryn Mawr	6
+city:Buena Vista	26
+city:Buffalo	12
+city:Buford	15
+city:Burlington	83
+city:Cairo	11
+city:Calabash	13
+city:Camden	57
+city:Cameron	16
+city:Candler	57
+city:Canton	14
+city:Carrboro	10
+city:Carrollton	16
+city:Cary	5
+city:Cedartown	4
+city:Center Conway	73
+city:Centralia	2
+city:Centre	9
+city:Chapel Hill	16
+city:Chapin	13
+city:Chardon	20
+city:Charleston	56
+city:Charlotte	154
+city:Chattanooga	80
+city:Chelsea	26
+city:Chennai	11
+city:Cherry Hill	19
+city:Chicago	8
+city:Chicopee	5
+city:Chipley	13
+city:Clarkston	9
+city:Clayton	55
+city:Clearwater	19
+city:Clemmons	8
+city:Clermont	20
+city:Cleveland	25
+city:Cockeysville	4
+city:Collierville	3
+city:Columbia	102
+city:Columbus	59
+city:Concord	19
+city:Conway	31
+city:Conyers	52
+city:Cornelia	7
+city:Cornelius	6
+city:Coshocton	7
+city:Cottageville	6
+city:Covington	4
+city:Cowpens	8
+city:Cumming	87
+city:Custer	4
+city:Dallas	10
+city:Dalton	12
+city:Danielsville	16
+city:Danville	17
+city:Daphne	36
+city:Darlington	8
+city:Davenport	26
+city:Dawsonville	16
+city:Deltona	95
+city:Denver	13
+city:Donalsonville	16
+city:Dothan	4
+city:Douglas	31
+city:Douglasville	41
+city:Duluth	48
+city:Duncan	11
+city:Dunedin	21
+city:Durham	59
+city:Dyer	26
+city:Eden	19
+city:Edgewater	5
+city:Elizabethtown	28
+city:Elk Grove Village	22
+city:Ellenwood	21
+city:Eustis	14
+city:Evans	4
+city:Evansville	5
+city:Farmville	6
+city:Fayetteville	39
+city:Feasterville	10
+city:Fernandina Beach	5
+city:Fitzgerald	7
+city:Florence	22
+city:Forest	3
+city:Fort Lauderdale	25
+city:Fort Mill	11
+city:Fort Myers	20
+city:Frankford	7
+city:Franklin	8
+city:Fremont	13
+city:Frisco	13
+city:Fuquay-Varina	5
+city:Gainesville	141
+city:Gardendale	4
+city:Garner	15
+city:Georgetown	8
+city:Glenside	8
+city:Goldsboro	11
+city:Graham	7
+city:Greensboro	18
+city:Greenville	44
+city:Greenwood	6
+city:Gretna	14
+city:Griffin	8
+city:Gulfport	14
+city:Guyton	7
+city:Hackensack	13
+city:Haines City	8
+city:Hamilton	10
+city:Hampton	18
+city:Harrisburg	11
+city:Henderson	12
+city:Hendersonville	4
+city:Hephzibah	22
+city:Hickory	59
+city:High Point	52
+city:High Springs	13
+city:Hillsborough	27
+city:Hinesville	11
+city:Holcomb	9
+city:Holly Springs	9
+city:Hollywood	19
+city:Homosassa	4
+city:Hope Mills	8
+city:Hopewell	4
+city:Hoschton	16
+city:Houston	4
+city:Hudson	10
+city:Hull	10
+city:Humble	26
+city:Humboldt	10
+city:Huntsville	36
+city:Indian Trail	2
+city:Interlachen	3
+city:Inverness	18
+city:Irmo	39
+city:Jackson	38
+city:Jacksonville	135
+city:Jacksonville Beach	12
+city:Jasper	39
+city:Jesup	19
+city:Johnson City	8
+city:Joice	22
+city:Jonesborough	6
+city:Kannapolis	9
+city:Kenner	13
+city:Keswick	12
+city:Kill Devil Hills	21
+city:Kingsport	10
+city:Kingston	8
+city:Kintnersville	2
+city:Kissimmee	26
+city:Knoxville	53
+city:La Grange	14
+city:LaFayette	5
+city:Ladson	10
+city:Lady Lake	7
+city:Lajeado	25
+city:Lake Hiawatha	4
+city:Lake Mary	36
+city:Lakeland	56
+city:Landrum	8
+city:Lansdale	19
+city:Lansing	2
+city:Largo	75
+city:Laurinburg	2
+city:Lawrenceville	83
+city:Lebanon	14
+city:Lehigh Acres	75
+city:Lenoir City	14
+city:Lexington	23
+city:Lillington	13
+city:Lincolnton	15
+city:Live Oak	32
+city:Loganville	13
+city:London	7
+city:Longs	7
+city:Longwood	22
+city:Loretto	25
+city:Loris	4
+city:Los Angeles	9
+city:Louisville	28
+city:Macon	8
+city:Madison	24
+city:Madison Heights	11
+city:Magee	6
+city:Maiden	4
+city:Maitland	9
+city:Manassas	26
+city:Maple Valley	7
+city:Marietta	32
+city:Martinsville	33
+city:Mary Esther	19
+city:McBee	25
+city:McDonough	70
+city:Mebane	12
+city:Mechanicsville	7
+city:Melbourne	59
+city:Memphis	23
+city:Merritt Island	12
+city:Miami	135
+city:Middle Haddam	13
+city:Milwaukee	7
+city:Mobile	8
+city:Montgomery	16
+city:Moody	23
+city:Mooresville	25
+city:Morehead City	2
+city:Moscow	2
+city:Moultrie	9
+city:Mount Airy	13
+city:Mount Holly	13
+city:Mount Juliet	17
+city:Mountain View	2
+city:Mt. Dora	13
+city:Mt. Pleasant	7
+city:Munster	4
+city:Murfreesboro	25
+city:Myakka City	11
+city:Myrtle Beach	36
+city:Narberth	4
+city:Nashville	96
+city:Natchitoches	23
+city:Needham Heights	2
+city:New Orleans	4
+city:New Port Richey	11
+city:Newberry	5
+city:Norcross	6
+city:Norfolk	16
+city:Norristown	10
+city:North Augusta	47
+city:North Charleston	16
+city:North Myrtle Beach	5
+city:North Olmsted	30
+city:North Port	10
+city:North Vernon	4
+city:North Wilkesboro	4
+city:Notasulga	11
+city:Novi	4
+city:Nutley	6
+city:Oakland	18
+city:Ocala	106
+city:Ocean Springs	9
+city:Ocilla	5
+city:Ocoee	7
+city:Odum	17
+city:Oldsmar	25
+city:Opelika	44
+city:Orange Park	15
+city:Orlando	215
+city:Ormond Beach	52
+city:Oviedo	3
+city:Paducah	9
+city:Palm Bay	5
+city:Palmetto	16
+city:Panama City	35
+city:Panama City Beach	1
+city:Parkersburg	7
+city:Pasadena	4
+city:Pearl	11
+city:Pensacola	94
+city:Peoria	4
+city:Perry	14
+city:Pewaukee	15
+city:Pfafftown	7
+city:Philadelphia	39
+city:Phoenix	4
+city:Pierceton	32
+city:Pinellas Park	5
+city:Pinnacle	42
+city:Pinson	11
+city:Pittsboro	5
+city:Pittsburgh	30
+city:Plainville	14
+city:Plant City	4
+city:Plymouth	19
+city:Pompano Beach	18
+city:Pooler	4
+city:Port Richey	8
+city:Porter	13
+city:Prophetstown	22
+city:Providence	10
+city:Racine	6
+city:Radcliff	9
+city:Raleigh	242
+city:Randolph Township	52
+city:Rincon	15
+city:Riverview	15
+city:Roanoke Rapids	4
+city:Roberta	7
+city:Rock Hill	26
+city:Rock Island	32
+city:Rockingham	4
+city:Rome	9
+city:Roseland	11
+city:Roselle	7
+city:Roselle Park	9
+city:Rossville	1
+city:Roswell	64
+city:Rotonda	20
+city:Round O	6
+city:Saint Leo	14
+city:Saint Paul	27
+city:Salem	6
+city:Salisbury	44
+city:San Francisco	20
+city:Sanford	64
+city:Santee	16
+city:Saraland	9
+city:Sarasota	65
+city:Savannah	6
+city:Schaumburg	2
+city:Scottsburg	9
+city:Searcy	8
+city:Sebastian	5
+city:Seffner	11
+city:Sellersburg	10
+city:Seminole	15
+city:Sevierville	6
+city:Seymour	5
+city:Simpsonville	7
+city:Smiths	5
+city:Smyrna	6
+city:Snellville	20
+city:South Burlington	2
+city:Southern Pines	8
+city:Southfield	6
+city:Spartanburg	44
+city:Spring	30
+city:Spring Hill	56
+city:Springfield	24
+city:Springville	22
+city:St Louis	18
+city:St. Augustine	24
+city:St. Petersburg	47
+city:Stamford	7
+city:Starkville	7
+city:Sterling	2
+city:Stockbridge	27
+city:Stone Mountain	145
+city:Sublette	7
+city:Sugar Land	14
+city:Summerfield	6
+city:Summerville	23
+city:Sumter	8
+city:Swansboro	3
+city:Sylvania	8
+city:Tacoma	10
+city:Tallahassee	92
+city:Tallassee	14
+city:Tampa	173
+city:Temple	18
+city:Texarkana	34
+city:Thomaston	24
+city:Thomson	9
+city:Thonotosassa	7
+city:Titusville	17
+city:Toms River	24
+city:Tulsa	9
+city:Umatilla	3
+city:Utica	19
+city:Valdosta	24
+city:Veneta	2
+city:Vero Beach	10
+city:Vidalia	11
+city:Villa Rica	7
+city:Wahiawa	39
+city:Wake Forest	42
+city:Walkertown	19
+city:Walterboro	12
+city:Warner Robins	75
+city:Warren	7
+city:Warrenton	5
+city:Warwick	4
+city:Washington	33
+city:Wasilla	1
+city:Watkinsville	54
+city:Waukee	6
+city:Waukesha	6
+city:Waxhaw	58
+city:Waycross	250
+city:Waynesville	15
+city:Weaverville	40
+city:Wendell	5
+city:Wesley Chapel	11
+city:West Columbia	6
+city:West Olive	6
+city:West Palm Beach	49
+city:Westbrook	12
+city:Wilkesboro	3
+city:Wilmington	15
+city:Wingate	5
+city:Winston-Salem	140
+city:Winter Haven	4
+city:Woodstock	17
+city:York	10
+city:Zephyrhills	46
+city:null	970
+event_type:change contact form	2
+event_type:click contact banner	12
+event_type:click contact button	17
+event_type:click dealer phone	1
+event_type:click features	704
+event_type:click get directions	110
+event_type:click vehicle history	21
+event_type:display alternative	1287
+event_type:edit contact form	63
+event_type:show badge detail	2594
+event_type:show photo modal	222
+event_type:submit contact form	6
+event_type:visit badges	2796
+event_type:visit contact form	644
+event_type:visit features	1571
+event_type:visit market report	1353
+event_type:visit vehicle history	45
+features:10 Speakers	214
+features:12 Speakers	8
+features:14 Inch Wheels	19
+features:15 Inch Wheels	228
+features:15-Passenger Seating	2
+features:16 Inch Wheels	597
+features:17 Inch Wheels	1019
+features:18 Inch Wheels	718
+features:19 Inch Wheels	20
+features:1SB Package	18
+features:2 Speakers	3
+features:2-Stage Unlocking	80
+features:20 Inch Wheels	51
+features:3-Point Seat Belts	3188
+features:4 Speakers	543
+features:4-Passenger Seating	11
+features:4-Wheel Disc Brakes	372
+features:4-Wheel Independent Suspension	100
+features:5-Passenger Seating	1146
+features:6 Speakers	1128
+features:6-Passenger Seating	6
+features:7 Speakers	141
+features:7-Passenger Seating	140
+features:8 Speakers	422
+features:8-Passenger Seating	44
+features:9 Speakers	18
+features:AM/FM	5383
+features:Access Cab	74
+features:Active Grille Shutters	9
+features:Active Noise Cancellation	39
+features:AcuraLink	9
+features:Adaptive Cruise Control	39
+features:Adjustable Headrests	1369
+features:Adjustable Lumbar Support	1334
+features:Adjustable Pedals	334
+features:Adjustable Seats	2035
+features:Adjustable Steering Wheel	4846
+features:Advanced Airbag System	88
+features:Advanced Front Airbags	15
+features:Advanced Front-Lighting System	272
+features:Air Conditioning	6706
+features:Air Filtration	1373
+features:Airbag Deactivation	67
+features:Airbag Deactivation (Passenger)	155
+features:Airbags	561
+features:All-Season Tires	1521
+features:All-Season Tires (Front)	8
+features:All-Season Tires (Rear)	8
+features:Alloy Wheels	3459
+features:Alpine Sound System	44
+features:Aluminum Dash Trim	29
+features:Aluminum Door Trim	581
+features:Aluminum Interior Accents	23
+features:Ambient Lighting	13
+features:Antenna	1747
+features:Anti-Lock Brakes	5153
+features:Anti-Theft Stereo	116
+features:Anti-Theft System	3318
+features:Anti-lock Brakes	725
+features:Anti-theft System	566
+features:Appearance Package	4
+features:Armrest	200
+features:Armrest Storage	165
+features:Armrests	1245
+features:Audiophile Sound System	7
+features:Auto Climate Control	775
+features:Auto-Dimming Mirror	1603
+features:Auto-dimming Mirror	226
+features:Automatic Hazard Warning Lights	28
+features:Automatic Headlights	2269
+features:Automatic Locking Hubs	9
+features:Aux Audio Adapter	1883
+features:BMW Assist	76
+features:Bed Liner	163
+features:Bench Seat	279
+features:Beverage Holder	128
+features:Black Grille	12
+features:Blind Spot Monitor	232
+features:Body Colored Bumpers	1553
+features:Body Colored Door Handles	1373
+features:Body Colored Grille	667
+features:Body Colored Side Moldings	481
+features:Body Side Moldings	153
+features:Bose Sound System	312
+features:Boston Acoustic Sound System	12
+features:Braking Assist	1648
+features:Brembo Brake Package	5
+features:Bucket Seats	301
+features:CD (Multi Disc)	1504
+features:CD (Single Disc)	3638
+features:Cab Plus	37
+features:Capless Fuel Filler System	8
+features:Captains Chairs	39
+features:Cargo Area Concealed Storage	47
+features:Cargo Area Light	1604
+features:Cargo Area Tie Downs	1107
+features:Cargo Area Under Floor	166
+features:Cargo Cover	294
+features:Cargo Net	346
+features:Cargo Tray	7
+features:Cargo Van	55
+features:Cassette	571
+features:Center Console	866
+features:Child Safety Locks	2156
+features:Child Seat Anchors	2842
+features:Chrome Bumpers	320
+features:Chrome Door Handles	414
+features:Chrome Front Grill	763
+features:Chrome Mirrors	6
+features:Chrome Package	4
+features:Chrome Step Bumper	9
+features:Chrome Wheels	161
+features:Cigarette Lighter	154
+features:Clock	2137
+features:Cloth Door Trim	41
+features:Cloth Seats	569
+features:Cloth Upholstery	1207
+features:Club Cab	12
+features:Color Coded Mirrors	2056
+features:Compact Spare Tire	532
+features:Compass	1101
+features:ConnectedDrive	9
+features:Console	1082
+features:Convenience Package	9
+features:Cooled Seats	87
+features:Cornering Brake Control	30
+features:Crash Sensors	589
+features:Cross Traffic Alert	30
+features:Cruise Control	5224
+features:Cup Holder	2401
+features:Custom Bumper	28
+features:Custom Paint	13
+features:Cutaway Van	40
+features:DVD	365
+features:Daytime Running Lights	2123
+features:Delay-Off Headlights	337
+features:Delayed Accessory Power	56
+features:Digital Info Center	1100
+features:Door Bin	244
+features:Door Pockets	1082
+features:Door Unlock Impact Sensor	28
+features:Double Cab	153
+features:Double Wishbone Front Suspension	14
+features:Double Wishbone Suspension	9
+features:Downhill-Assist Control	18
+features:Driver Adjustable Lumbar	621
+features:Driver Foot Rest	47
+features:Driver Seat Mounted Armrest	7
+features:Dual Airbags	400
+features:Dual Exhaust	535
+features:Dual Rear Wheel	5
+features:Dual Side View Mirrors	93
+features:Dual Sun/Moonroof	49
+features:Dual-Stage Front Airbags	1115
+features:Dual-Zone Climate Control	1357
+features:Dual-zone Climate Control	283
+features:EcoBoost	101
+features:Electric Parking Brake	9
+features:Electroluminescent Instrumentation	2
+features:Electronic Brake Force Distribution	1049
+features:Electronic Messaging Assistance	9
+features:Emergency Communication System	51
+features:Emergency Trunk Release	979
+features:Energy Absorbing Steering Column	658
+features:Engine Immobilizer	1492
+features:Extended Van	119
+features:Fade-To-Off Interior Lighting	298
+features:First Aid Kit	381
+features:Fleet Only	31
+features:Floor Mats	1854
+features:Fog Lights	2922
+features:Folding Mirrors	793
+features:Front Air Dam	588
+features:Front Airbags (Driver)	5291
+features:Front Airbags (Passenger)	4105
+features:Front Anti-Roll Bar	204
+features:Front Bench Seat	170
+features:Front Bucket Seats	2008
+features:Front Center Armrest	570
+features:Front Crumple Zones	306
+features:Front Disc Brakes	327
+features:Front Headrests	1227
+features:Front Knee Airbags (Driver)	523
+features:Front Knee Airbags (Passenger)	126
+features:Front Side Airbags	1399
+features:Front Side Airbags (Driver)	2849
+features:Front Side Airbags (Passenger)	192
+features:Front Stabilizer Bar	139
+features:Front Ventilated Disc Brakes	77
+features:Front Video Monitor	7
+features:Front and Rear Stabilizer Bar	32
+features:Fuel Cut-Off Impact Sensor	28
+features:Fuel Data Display	38
+features:Full Power Package	5
+features:Full Size Spare Tire	1067
+features:Glove Box	1620
+features:Grille Guard	36
+features:HD	26
+features:HD Radio	71
+features:HD Suspension	10
+features:Halogen Fog Lights	188
+features:Halogen Headlights	2021
+features:Handsfree Power Liftgate	11
+features:Handsfree/Bluetooth Integration	1645
+features:Hard Disk Drive	80
+features:Hard Top	144
+features:Harman/Kardon Sound System	175
+features:Head Airbags	194
+features:Head Restraint Whiplash Protection	103
+features:Head-Up Display	40
+features:Heated Mirrors	2254
+features:Heated Seat Cushion	4
+features:Heated Seats	1542
+features:Heated Steering Wheel	84
+features:Heated Windshield	91
+features:High Intensity Discharge Headlights	649
+features:High Performance Tires	219
+features:Hill Assist System	73
+features:Humidity Sensor	42
+features:Hydraulic Brakes	180
+features:Hyundai Blue Link	15
+features:Illuminated Entry	460
+features:Illuminated Glove Box	54
+features:Impact Absorbing Bumpers	434
+features:Impact Absorbing Seats	5
+features:Independent Suspension	331
+features:Inside Rear-View Mirror - Manual Day/Night	24
+features:Integrated Cell Phone	257
+features:Integrated Garage Door Opener	1241
+features:Intermittent Wipers	3493
+features:Keyless Entry	4301
+features:Keyless Ignition	761
+features:Kia UVO	8
+features:King Cab	36
+features:LED Lights	85
+features:LED Tail Lights	41
+features:LWB	28
+features:Lane Departure Warning	109
+features:Leaf Rear Spring	76
+features:Leather Package	2
+features:Leather Seats	2057
+features:Leather Shift Knob Trim	156
+features:Leather Steering Wheel	2335
+features:Leather Trimmed Interior	563
+features:Leather Trimmed Seats	67
+features:Leather/Metal-Look Shift Knob Trim	19
+features:Leather/Metal-Look Steering Wheel Trim	15
+features:Leather/Piano Black Shift Knob Trim	5
+features:Leatherette Door Trim	14
+features:Leatherette Seats	177
+features:Limited Slip Differential	150
+features:Locking Differential	72
+features:Locking Glove Box	77
+features:Locking Tailgate	40
+features:Low Emissions Vehicle	105
+features:Low Emissions Vehicle II	225
+features:Low Emissions Vehicle III	31
+features:Low Fuel Level Indicator	1140
+features:Luggage Rack	486
+features:M Sport Package	26
+features:MP3	2840
+features:MacPherson Front Suspension	86
+features:Maintenance Free Battery	26
+features:Mark Levinson Sound System	45
+features:Massage Seats	14
+features:Media Hub	12
+features:Mega Cab	32
+features:Memorized Settings	117
+features:Memory Card Slot	11
+features:Memory Mirrors	402
+features:Memory Package	44
+features:Metal-Look Dash Trim	9
+features:Metal-Look Door Trim	24
+features:Monsoon Sound System	19
+features:Multi-Link Suspension	137
+features:Multi-Stage Front Airbags	212
+features:Multi-Zone Climate Control	91
+features:Multimedia Interface	103
+features:MyKey System	94
+features:Navigation System	1044
+features:New Brakes	5
+features:New Tires	248
+features:NissanConnect	15
+features:Off-Road Package	50
+features:Off-Road Tires	28
+features:OnStar Communication System	419
+features:One-Touch Integrated Start	6
+features:One-Touch Power Windows	493
+features:Overhead Airbag	163
+features:Overhead Console	1272
+features:Paddle Shifter	56
+features:Panic Button	954
+features:Panorama Sunroof	93
+features:Parking Assist System	272
+features:Parking Sensors	362
+features:Partial Zero Emissions Vehicle	60
+features:Pass-Through Rear Seat	278
+features:Pass-through Rear Seat	60
+features:Passenger Adjustable Lumbar	61
+features:Passenger Seat Mounted Armrest	7
+features:Passenger Sensing Airbag	2165
+features:Passenger Van	51
+features:Perforated Seats	22
+features:Performance Package	20
+features:Permanent Locking Hubs	33
+features:Personal Safety System	93
+features:Pioneer Sound System	22
+features:Post-Collision Safety System	47
+features:Power Doors	803
+features:Power Equipment	813
+features:Power Folding Rear Seats	14
+features:Power Locks	5460
+features:Power Mirrors	4116
+features:Power Outlet	2734
+features:Power Package	5
+features:Power Seat (Driver)	1549
+features:Power Seat (Dual)	1808
+features:Power Seat (Passenger)	395
+features:Power Sliding Doors	3
+features:Power Steering	4868
+features:Power Sun/Moonroof	1002
+features:Power Tailgate	29
+features:Power Top	63
+features:Power Windows	5296
+features:Precrash System	139
+features:Premium Package	15
+features:Premium Sound System	426
+features:Premium Wheels	12
+features:Previously Salvaged	26
+features:Privacy Glass	860
+features:Quad Cab	181
+features:Racing Stripes	4
+features:Radio Data System	800
+features:Rain Brake Support	25
+features:Rain-Sensing Wipers	568
+features:Reading Lights	2792
+features:Real-Time Traffic	40
+features:Rear A/C Controls	2
+features:Rear Air Conditioning	898
+features:Rear Air Ducts	58
+features:Rear Anti-Roll Bar	162
+features:Rear Audio Controls	46
+features:Rear Bench Seat	1022
+features:Rear Bucket Seats	9
+features:Rear Center Armrest	205
+features:Rear Crumple Zones	35
+features:Rear Disc Brakes	21
+features:Rear Drum Brakes	514
+features:Rear Head Airbags	51
+features:Rear Headrests	419
+features:Rear Heat Controls	2
+features:Rear Heated Seats	28
+features:Rear Power Seats	21
+features:Rear Power Windows	120
+features:Rear Privacy Glass	48
+features:Rear Seat Entertainment	34
+features:Rear Side Airbags	295
+features:Rear Stabilizer Bar	64
+features:Rear Ventilated Disc Brakes	42
+features:Rear Window Defroster	1609
+features:Rear Window Wiper	1221
+features:Rear-View Camera	603
+features:Remote Fuel Door Release	1104
+features:Remote Start	369
+features:Remote Trunk Release	1430
+features:Remote Windows	23
+features:Removable Seats	139
+features:Removable Top	57
+features:Retained Accessory Power	47
+features:Rockford Fosgate Sound System	6
+features:Rollover Protection Bars	218
+features:Roof Rack	768
+features:Roof Rails	149
+features:Run-Flat Tires	126
+features:Run-flat Tires	25
+features:Running Boards	490
+features:SOS Post-Crash Alert System	100
+features:Safety Brake Pedal System	41
+features:Satellite Radio	1464
+features:Satellite Radio Preparation	9
+features:Satellite Radio Ready	51
+features:Seat Belt Pretensioners	1654
+features:Seat Belt Warning System	802
+features:Seat Memory	888
+features:Shaker Sound System	23
+features:Short And Long Arm Front Suspension	19
+features:Side Air Dam	23
+features:Side Airbag	630
+features:Side Airbags	594
+features:Side Curtain Airbags	2264
+features:Side Curtain Airbags w/Rollover Sensor	33
+features:Side Impact Door Beam	1502
+features:Side Window Defogger	341
+features:Simulated Aluminum Dash Trim	9
+features:Simulated Wood Dash Trim	6
+features:Skid Plate	226
+features:Sliding Rear Seats	2
+features:Sliding Rear Window	82
+features:Smart Device Integration	41
+features:Smart Key	383
+features:Smart Stop Technology	112
+features:Smooth Ride Suspension Package	6
+features:Sony Sound System	2
+features:Spare Tire	63
+features:Speed Sensitive Volume Control	873
+features:Speed-Sensing Steering	231
+features:Splash Guards	125
+features:Split/Folding Seats	3034
+features:Spoiler	831
+features:Sport Mirrors	9
+features:Sport Package	74
+features:Sport Seats	235
+features:Sport Steering Wheel	161
+features:Sport Suspension	12
+features:Spotter Mirrors	59
+features:Stability Control	2369
+features:Star Safety System	50
+features:Steel Spare Wheel Rim	70
+features:Steel Wheels	730
+features:Steering Wheel Controls	2913
+features:Steering Wheel Memory	299
+features:Step Bumper	50
+features:Subwoofer	439
+features:Summer Tires	48
+features:Sun/Moonroof	721
+features:Super Cab	240
+features:Super Ultra Low Emissions Vehicle	70
+features:SuperCrew Cab	100
+features:Supercharger	234
+features:Surround Audio	17
+features:Sync	131
+features:Sync with MyFord	17
+features:Sync with MyFord Touch	29
+features:T-Top	2
+features:TV	9
+features:Tachometer	3404
+features:Targa Top	10
+features:Technology Package	40
+features:Tele-Aid SOS System	34
+features:Telematics System	132
+features:Thermometer	1901
+features:Third Row Removable Seat	9
+features:Third Row Seating	482
+features:Three-Zone Climate Control	170
+features:Three-zone Climate Control	23
+features:Tinted Windows	1699
+features:Tip Start Ignition	16
+features:Tire Pressure Monitoring System	2376
+features:Touch-Screen Sound System	89
+features:Touring Tires	117
+features:Tow Hooks	629
+features:Towing Package	272
+features:Towing Preparation Package	26
+features:Toyota Entune	85
+features:Traction Control	2675
+features:Traction/Stability Control	1257
+features:Trailer Brake Controller	7
+features:Trailer Hitch	444
+features:Trailer Stability Assist	139
+features:Trailer Wiring	72
+features:Trip Computer	1787
+features:Trip Odometer	1883
+features:Turbocharger	18
+features:Turn Signal Mirrors	803
+features:Two-Tone Paint	4
+features:USB Adapter	739
+features:USB Audio Interface	27
+features:Uconnect System	76
+features:Ultra Low Emissions Vehicle	260
+features:Ultra Low Emissions Vehicle II	321
+features:Urethane Shift Knob Trim	9
+features:Urethane Steering Wheel Trim	141
+features:Utility Package	11
+features:Valet Function	46
+features:Vanity Mirror/Light	2160
+features:Vehicle Tracking System	87
+features:Ventilated Disc Brakes	17
+features:Ventilated Seats	25
+features:Vinyl Floor	200
+features:Vinyl Seats	210
+features:Voice-Activated Command System	323
+features:Voice-activated Command System	20
+features:Volvo On Call	6
+features:Volvo Sensus	7
+features:Warranty	22
+features:Wheel Covers	278
+features:Wide Tires	5
+features:Winch	43
+features:Wind Deflector	38
+features:Window Lockout Button	103
+features:Windshield Wiper Heater	77
+features:Wood Dash Trim	17
+features:Wood Door Trim	17
+features:Wood Steering Wheel Trim	201
+features:Wood Trimmed Interior	725
+features:Wood/Metal-Look Dash Trim	9
+features:Xtra Cab	20
+features:iPod Adapter	438
+features:null	2186
+free_carfax_report:f	9741
+free_carfax_report:t	1707
+make:Acura	82
+make:Alfa Romeo	10
+make:Audi	67
+make:BMW	610
+make:Bentley	16
+make:Buick	117
+make:Cadillac	499
+make:Chevrolet	1534
+make:Chrysler	196
+make:Dodge	571
+make:Fiat	9
+make:Fisker	5
+make:Ford	1451
+make:GMC	320
+make:Honda	662
+make:Hummer	31
+make:Hyundai	289
+make:Infiniti	144
+make:Jaguar	38
+make:Jeep	565
+make:Kia	224
+make:Land Rover	96
+make:Lexus	341
+make:Lincoln	34
+make:Maserati	46
+make:Mazda	133
+make:Mercedes-Benz	437
+make:Mercury	9
+make:Mini	74
+make:Mitsubishi	50
+make:Nissan	682
+make:Pontiac	106
+make:Porsche	36
+make:Ram	115
+make:Saab	8
+make:Saturn	20
+make:Scion	50
+make:Smart	20
+make:Subaru	97
+make:Suzuki	11
+make:Toyota	1090
+make:Volkswagen	520
+make:Volvo	33
+model:1500	24
+model:200	75
+model:2500	10
+model:3 Series	290
+model:300	65
+model:300M	10
+model:3500	71
+model:4 Series	9
+model:4C	10
+model:4Runner	238
+model:5 Series	74
+model:500	9
+model:7 Series	93
+model:9-3	8
+model:911	23
+model:A5	5
+model:A6	16
+model:Acadia	21
+model:Accent	38
+model:Accord	216
+model:Aerio	4
+model:Altima	222
+model:Armada	17
+model:Arnage	2
+model:Atlas	6
+model:Avalanche 1500	38
+model:Avalon	14
+model:Avenger	25
+model:Aveo	36
+model:B-Series	37
+model:Beetle	10
+model:Bonneville	3
+model:Boxster	6
+model:C	224
+model:C-Class	65
+model:C/K 10	6
+model:C/K 3500	6
+model:CC	7
+model:CLK	10
+model:CR-V	75
+model:CR-Z	9
+model:CTS	190
+model:CX-5	2
+model:CX-7	6
+model:Caliber	3
+model:Camaro	39
+model:Camry	244
+model:Cayenne	7
+model:Century	4
+model:Challenger	11
+model:Charger	123
+model:Cherokee	6
+model:Civic	249
+model:Cobalt	41
+model:Colorado	71
+model:Commander	34
+model:Compass	5
+model:Continental	14
+model:Cooper	70
+model:Cooper Roadster	4
+model:Corolla	160
+model:Corvette	135
+model:Coupe	8
+model:Cruze	53
+model:DTS	38
+model:Dakota	52
+model:Dart	23
+model:DeVille	29
+model:Discovery	35
+model:Durango	23
+model:E	14
+model:E-Class	66
+model:ES	75
+model:Eclipse	5
+model:Econoline	86
+model:Edge	56
+model:El Camino	11
+model:Elantra	46
+model:Element	25
+model:Encore	2
+model:Envoy	50
+model:Equinox	102
+model:Escalade	67
+model:Escape	58
+model:Excursion	5
+model:Expedition	74
+model:Explorer	84
+model:Explorer Sport Trac	17
+model:Express	25
+model:F-150	240
+model:F-250	193
+model:F-350	65
+model:FX35	19
+model:Fiesta	18
+model:Five Hundred	5
+model:Flex	18
+model:Focus	80
+model:Forester	16
+model:Forte	19
+model:Fortwo	20
+model:Frontier	49
+model:Fusion	86
+model:G35	22
+model:G37	29
+model:G6	98
+model:GLK	8
+model:GS	17
+model:GTI	28
+model:Genesis	5
+model:Golf	52
+model:GranTurismo	17
+model:Grand Caravan	49
+model:Grand Cherokee	159
+model:Grand Prix	5
+model:H2	8
+model:H3	23
+model:HHR	6
+model:Highlander	25
+model:I30	26
+model:I35	31
+model:IS	26
+model:Impala	133
+model:Impreza	24
+model:Jetta	157
+model:Jimmy	13
+model:Journey	12
+model:Karma	5
+model:LS	81
+model:LaCrosse	52
+model:Land Cruiser	11
+model:LeSabre	14
+model:Liberty	55
+model:Lucerne	9
+model:M-Class	4
+model:M35	5
+model:MDX	36
+model:ML	4
+model:MPV	7
+model:Magnum	14
+model:Malibu	175
+model:Malibu Classic	4
+model:Mariner	9
+model:Maxima	63
+model:Mazda2	14
+model:Mazda3	28
+model:Mazda6	36
+model:Miata	1
+model:Millenia	2
+model:Monte Carlo	12
+model:Montero	6
+model:Murano	36
+model:Mustang	170
+model:NSX	16
+model:Navigator	21
+model:Neon	8
+model:New Beetle	14
+model:Nitro	39
+model:Odyssey	56
+model:Optima	16
+model:Outback	35
+model:Outlander	27
+model:Outlander Sport	12
+model:PT Cruiser	13
+model:Pacifica	5
+model:Park Avenue	9
+model:Passat	135
+model:Pathfinder	87
+model:Patriot	63
+model:Pickup	9
+model:Pilot	32
+model:Prius	29
+model:Q45	7
+model:Q5	17
+model:Q7	10
+model:QX4	5
+model:Quattroporte	21
+model:RAV4	82
+model:RX	78
+model:Rabbit	11
+model:Rainier	10
+model:Ram 1500	185
+model:Ram 2500	14
+model:Range Rover	61
+model:Ranger	102
+model:Regal	3
+model:Rendezvous	14
+model:Reno	7
+model:Rio	25
+model:Rio5	8
+model:Rogue	29
+model:Rondo	4
+model:S-10	12
+model:S-Class	10
+model:S4	7
+model:S60	7
+model:S80	3
+model:SC	68
+model:SL	14
+model:SL-Class	14
+model:SLK	4
+model:SRX	134
+model:STS	41
+model:Santa Fe	25
+model:Savana	6
+model:Sebring	2
+model:Sedona	6
+model:Sentra	64
+model:Sequoia	22
+model:Sierra 1500	118
+model:Sierra 2500	4
+model:Sierra 2500HD	20
+model:Silverado 1500	164
+model:Silverado 2500HD	48
+model:Silverado 3500	27
+model:Silverado 3500HD	5
+model:Sonata	127
+model:Sonic	12
+model:Sorento	123
+model:Soul	17
+model:Spark	14
+model:Sportage	6
+model:Suburban 1500	114
+model:TL	21
+model:TLX	2
+model:TSX	7
+model:TT	12
+model:Tacoma	187
+model:Tahoe	149
+model:Taurus	94
+model:Terrain	4
+model:Tiburon	16
+model:Tiguan	82
+model:Titan	34
+model:Touareg	18
+model:Town & Country	26
+model:Town Car	9
+model:TrailBlazer	41
+model:Traverse	55
+model:Tribeca	22
+model:Tucson	17
+model:Tundra	62
+model:VUE	20
+model:Veloster	15
+model:Versa	22
+model:Wrangler	243
+model:X3	47
+model:X5	76
+model:XC90	23
+model:XJ	38
+model:Xterra	39
+model:Yaris	16
+model:Yukon	51
+model:Yukon XL	33
+model:Z	11
+model:Z3	17
+model:Z4	4
+model:tC	12
+model:xB	38
+trim:	2027
+trim:1500	60
+trim:2.0T	31
+trim:2.5X	16
+trim:2.5i Limited	31
+trim:230	163
+trim:250	27
+trim:3.0i	27
+trim:3.0si	56
+trim:3.2	16
+trim:3.6R	4
+trim:300	6
+trim:320	10
+trim:323Ci	7
+trim:325i	27
+trim:328i	114
+trim:328i xDrive	56
+trim:330	88
+trim:330Ci	26
+trim:330i	6
+trim:335i	42
+trim:335is	12
+trim:350	104
+trim:3500	4
+trim:350Z	11
+trim:4.8i	18
+trim:428i	9
+trim:430	69
+trim:460	76
+trim:525i	25
+trim:528i	20
+trim:530i	14
+trim:535i	9
+trim:545i	6
+trim:55 AMG	7
+trim:63 AMG	69
+trim:745Li	11
+trim:750Li	28
+trim:750i xDrive	54
+trim:B3000	37
+trim:Base	309
+trim:Bighorn/Lonestar	10
+trim:C 230	10
+trim:C 240	20
+trim:C 250	8
+trim:C 300	20
+trim:C 350	7
+trim:CE	26
+trim:CX	7
+trim:CXL	76
+trim:Cabelas	2
+trim:Cambiocorsa	8
+trim:Carrera	17
+trim:Classic	6
+trim:Cobra	22
+trim:Custom	18
+trim:DHS	9
+trim:DTS	20
+trim:DX	51
+trim:Denali	43
+trim:E 320	33
+trim:E 350	33
+trim:E-350	52
+trim:E-450	34
+trim:ES	13
+trim:ESV	18
+trim:EX	348
+trim:EXL	139
+trim:EXT	9
+trim:Eco	8
+trim:Eco-Sport	5
+trim:Eddie Bauer	4
+trim:Edge	7
+trim:FX4	19
+trim:Five	13
+trim:Fleet	11
+trim:GL	5
+trim:GLI	26
+trim:GLS	174
+trim:GS	16
+trim:GT	124
+trim:GT Limited	16
+trim:GTC	14
+trim:HSE	72
+trim:King Ranch	40
+trim:Komfort	49
+trim:L	20
+trim:LE	259
+trim:LS	312
+trim:LT	559
+trim:LTZ	166
+trim:LX	338
+trim:LXP	16
+trim:Laramie	89
+trim:Laredo	95
+trim:Lariat	157
+trim:Latitude	4
+trim:Limited	137
+trim:Limited Edition	301
+trim:Lux	28
+trim:Luxury	167
+trim:ML 430	4
+trim:Nismo	17
+trim:Outback Sport	13
+trim:Platinum	2
+trim:Police	9
+trim:Pop	9
+trim:PreRunner	11
+trim:Premier	4
+trim:Premium	12
+trim:Premium Plus	22
+trim:R	2
+trim:R-Spec	5
+trim:R/T	73
+trim:RS	6
+trim:Rubicon	11
+trim:S	427
+trim:S 420	4
+trim:S 550	6
+trim:SE	610
+trim:SE-R	5
+trim:SEL	124
+trim:SEL Plus	6
+trim:SL	71
+trim:SL 600	14
+trim:SLE	63
+trim:SLT	166
+trim:SR	18
+trim:SR5	227
+trim:SS	33
+trim:ST	35
+trim:STX	18
+trim:SV	82
+trim:SX	4
+trim:SXT	134
+trim:Sahara	60
+trim:Signature Limited	9
+trim:Soul+	8
+trim:Special	10
+trim:Sport	252
+trim:T5	7
+trim:T6	3
+trim:Technology	27
+trim:Titanium	6
+trim:Touring	57
+trim:Tradesman	49
+trim:Turbo	13
+trim:Value Edition	1
+trim:Value Leader	11
+trim:WRX	11
+trim:Work Truck	21
+trim:X	57
+trim:XE	20
+trim:XL	71
+trim:XLE	33
+trim:XLS	36
+trim:XLT	214
+trim:XR	20
+trim:XUV	45
+trim:Z06	25
+trim:Z71	16
+trim:i	6
+trim:i Sport	11
+trim:i Touring	17
+trim:xDrive30i	12
+trim:xDrive35i	13
+trim:xDrive48i	11
+trim:xDrive50i	7
+vehicle_condition:New	97
+vehicle_condition:Used	11351
+year:1985	17
+year:1990	42
+year:1992	16
+year:1993	10
+year:1994	62
+year:1995	9
+year:1996	40
+year:1997	35
+year:1998	62
+year:1999	246
+year:2000	158
+year:2001	199
+year:2002	319
+year:2003	488
+year:2004	792
+year:2005	1064
+year:2006	1113
+year:2007	911
+year:2008	1017
+year:2009	573
+year:2010	801
+year:2011	703
+year:2012	625
+year:2013	722
+year:2014	569
+year:2015	400
+year:2016	230
+year:2017	200
+year:2018	25
