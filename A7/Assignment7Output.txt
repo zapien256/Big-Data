@@ -1,0 +1,78 @@
+2017-10-31 03:54:47,679 INFO org.apache.hadoop.yarn.client.RMProxy (main): Connecting to ResourceManager at ip-172-31-13-243.us-west-2.compute.internal/172.31.13.243:8032
+2017-10-31 03:54:53,945 INFO org.apache.hadoop.mapreduce.lib.input.FileInputFormat (main): Total input paths to process : 1
+2017-10-31 03:54:53,993 WARN org.apache.hadoop.hdfs.DFSClient (DataStreamer for file /tmp/hadoop-yarn/staging/hadoop/.staging/job_1509419620887_0003/job.split): Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1249)
+	at java.lang.Thread.join(Thread.java:1323)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:609)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:370)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:546)
+2017-10-31 03:54:54,035 WARN org.apache.hadoop.hdfs.DFSClient (DataStreamer for file /tmp/hadoop-yarn/staging/hadoop/.staging/job_1509419620887_0003/job.splitmetainfo): Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1249)
+	at java.lang.Thread.join(Thread.java:1323)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:609)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:370)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:546)
+2017-10-31 03:54:54,036 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): number of splits:1
+2017-10-31 03:54:54,378 INFO org.apache.hadoop.mapreduce.JobSubmitter (main): Submitting tokens for job: job_1509419620887_0003
+2017-10-31 03:54:54,943 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl (main): Submitted application application_1509419620887_0003
+2017-10-31 03:54:55,033 INFO org.apache.hadoop.mapreduce.Job (main): The url to track the job: http://ip-172-31-13-243.us-west-2.compute.internal:20888/proxy/application_1509419620887_0003/
+2017-10-31 03:54:55,035 INFO org.apache.hadoop.mapreduce.Job (main): Running job: job_1509419620887_0003
+2017-10-31 03:55:17,539 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1509419620887_0003 running in uber mode : false
+2017-10-31 03:55:17,546 INFO org.apache.hadoop.mapreduce.Job (main):  map 0% reduce 0%
+2017-10-31 03:55:39,829 INFO org.apache.hadoop.mapreduce.Job (main):  map 100% reduce 0%
+2017-10-31 03:55:40,854 INFO org.apache.hadoop.mapreduce.Job (main): Job job_1509419620887_0003 completed successfully
+2017-10-31 03:55:41,147 INFO org.apache.hadoop.mapreduce.Job (main): Counters: 42
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=142199
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=260
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=1
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=0
+		S3: Number of bytes read=5924818
+		S3: Number of bytes written=346095
+		S3: Number of read operations=0
+		S3: Number of large read operations=0
+		S3: Number of write operations=0
+	Job Counters 
+		Launched map tasks=1
+		Data-local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=468168
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=19507
+		Total vcore-milliseconds taken by all map tasks=19507
+		Total megabyte-milliseconds taken by all map tasks=14981376
+	Map-Reduce Framework
+		Map input records=851
+		Map output records=0
+		Input split bytes=260
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=330
+		CPU time spent (ms)=5330
+		Physical memory (bytes) snapshot=192827392
+		Virtual memory (bytes) snapshot=2457853952
+		Total committed heap usage (bytes)=60882944
+	Mapper Counts
+		Discarded Clicker Sessions=207
+		Discarded Large Sessions=1
+		Discarded Shower Sessions=599
+	org.apache.avro.mapreduce.AvroMultipleOutputs
+		clicker=10
+		shower=15
+		submitter=5
+		visitor=14
+	File Input Format Counters 
+		Bytes Read=0
+	File Output Format Counters 
+		Bytes Written=1858
+

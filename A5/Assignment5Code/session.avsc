@@ -1,0 +1,74 @@
+{"namespace": "com.refactorlabs.cs378.Sessions",
+ "type": "record",
+ "name": "Session",
+ "fields": [
+      {"name": "user_id", "type": "string"},
+      {"name": "events",
+       "type": {"type": "array",
+                "items": {"type": "record",
+                          "name": "Event",
+                          "fields": [
+                              {"name": "event_type",
+                               "type": {"type": "enum",
+                                        "name": "EventType",
+                                        "symbols": [ "CHANGE", "CLICK", "DISPLAY",
+                                                     "EDIT", "SHOW", "SUBMIT", "VISIT" ]
+                                       }
+                               },
+                              {"name": "event_subtype",
+                               "type": {"type": "enum", "name": "EventSubtype",
+                                        "symbols": [ "ALTERNATIVE", "BADGES",
+                                                     "BADGE_DETAIL",
+                                                     "CONTACT_BANNER",
+                                                     "CONTACT_BUTTON",
+                                                     "CONTACT_FORM",
+                                                     "DEALER_PHONE",
+                                                     "FEATURES",
+                                                     "GET_DIRECTIONS",
+                                                     "MARKET_REPORT",
+                                                     "PHOTO_MODAL",
+                                                     "VEHICLE_HISTORY" ]
+                                       }
+                              },
+                              {"name": "event_time", "type": "string" },
+                              {"name": "city", "type": "string" },
+                              {"name": "vin", "type": "string" },
+                              {"name": "condition",
+                               "type": {"type": "enum",
+                                        "name": "VehicleCondition",
+                                        "symbols": ["New", "Used"]
+                                       }
+                              },
+                              {"name": "year", "type": "int" },
+                              {"name": "make", "type": "string" },
+                              {"name": "model", "type": "string" },
+                              {"name": "trim", "type": ["null", "string"], "default": null},
+                              {"name": "body_style",
+                               "type": {"type": "enum",
+                                                "name": "BodyStyle",
+                                                "symbols": [ "CHASSIS", "CONVERTIBLE", "COUPE",
+                                                             "HATCHBACK", "MINIVAN", "PICKUP", "SUV",
+                                                             "SEDAN", "VAN", "WAGON" ]
+                                       }
+                              },
+                              {"name": "cab_style",
+                               "type": ["null", {"type": "enum",
+                                              "name": "CabStyle",
+                                              "symbols": [ "CREW_CAB", "EXTENDED_CAB",
+                                                           "REGULAR_CAB"]
+                                                }
+                                       ],
+                               "default": null
+                              },
+                              {"name": "price", "type": "double" },
+                              {"name": "mileage", "type": "int" },
+                              {"name": "free_carfax_report", "type": "boolean" },
+                              {"name": "features",
+                               "type": {"type": "array", "items": "string" }}
+                          ]
+                         }
+               }
+      }
+ ]
+}
+
